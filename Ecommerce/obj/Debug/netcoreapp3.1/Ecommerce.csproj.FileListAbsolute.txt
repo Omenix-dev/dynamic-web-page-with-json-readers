@@ -1,0 +1,108 @@
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.exe
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.deps.json
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.runtimeconfig.json
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.runtimeconfig.dev.json
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.dll
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.pdb
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.Views.dll
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.Views.pdb
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.AssemblyInfo.cs
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.RazorAssemblyInfo.cache
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.RazorAssemblyInfo.cs
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\staticwebassets\Ecommerce.StaticWebAssets.Manifest.cache
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.TagHelpers.input.cache
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.TagHelpers.output.cache
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.RazorCoreGenerate.cache
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.RazorTargetAssemblyInfo.cs
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.Views.pdb
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.dll
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.pdb
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.genruntimeconfig.cache
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.csproj.CopyComplete
+C:\Users\hp\Documents\decagon task\week 6\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.exe
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.deps.json
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.runtimeconfig.json
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.runtimeconfig.dev.json
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.pdb
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.Views.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.Views.pdb
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.AssemblyInfo.cs
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.RazorAssemblyInfo.cache
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.RazorAssemblyInfo.cs
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\staticwebassets\Ecommerce.StaticWebAssets.Manifest.cache
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.TagHelpers.input.cache
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.TagHelpers.output.cache
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.RazorCoreGenerate.cache
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Details\Index.cshtml.g.cs
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.RazorTargetAssemblyInfo.cs
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.Views.pdb
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.pdb
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.genruntimeconfig.cache
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.csproj.CopyComplete
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAuth.cshtml.g.cs
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.Core.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.Data.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.Enum.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.Model.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.Utilities.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.Core.pdb
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.Data.pdb
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.Utilities.pdb
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.Enum.pdb
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Ecommerce.Model.pdb
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_FeaturedProductPartial.cshtml.g.cs
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ShowStarRatings.cshtml.g.cs
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\obj\Debug\netcoreapp3.1\Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\EasyEncryption.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hp\Documents\decagon task\week 7 task\Ecommerce\Ecommerce\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll

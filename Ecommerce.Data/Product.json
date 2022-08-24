@@ -1,0 +1,110 @@
+[
+    {
+        "Id": "prd1001",
+        "Name": "FS - QUILTED MAXI CROSS BAG",
+        "Discount": 24,
+        "Price": 534.33,
+        "Availability": "InStock",
+        "Category": "Bags",
+        "Shipping": true,
+        "Url":"/Images/blackbag.png" ,
+        "Description": "Cross Bag are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites.",
+        "Rating": "BestSales"
+    },
+    {
+        "Id": "prd1002",
+        "Name": "FS - NIKE AIR MAX 270 REACT AIR...",
+        "Discount": 23,
+        "Price": 600.00,
+        "Availability": "InStock",
+        "Category": "Sneakers",
+        "Shipping": true,
+        "Url":"/Images/yellowShow.png",
+        "Description": "air max are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites.",
+        "Rating":"BestSales"
+    },
+    {
+        "Id": "prd1003",
+        "Name": "FS - Addidas AIR MAX 200 REACT AIR...",
+        "Discount": 23,
+        "Price": 458.56,
+        "Availability": "InStock",
+        "Category": "Sneakers",
+        "Shipping": true,
+        "Url":"/Images/RedShoe.png",
+        "Description": "Addidas AIR are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites.",
+        "Rating":"BestSales"
+    },
+    {
+        "Id": "prd1004",
+        "Name": " Prada shoe MAX 200 REACT AIR...",
+        "Discount": 20,
+        "Price": 556.78,
+        "Availability": "InStock",
+        "Category": "Sneakers",
+        "Shipping": true,
+        "Url":"/Images/fineShoe.png",
+        "Description": "Prada shoe MAX are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites.",
+        "Rating":"BestSales"
+    },
+    {
+        "Id": "prd1005",
+        "Name": " Puma basketballers editon ...",
+        "Discount": 22,
+        "Price": 458.78,
+        "Availability": "InStock",
+        "Category": "Sneakers",
+        "Shipping": true,
+        "Url":"/Images/ShoeUnder.png",
+        "Description": "Prada shoe MAX are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites.",
+        "Rating":"BestSales"
+    },
+    {
+        "Id": "prd1006",
+        "Name": "prada Bag",
+        "Discount": 21,
+        "Price": 702.78,
+        "Availability": "InStock",
+        "Category": "Bags",
+        "Shipping": true,
+        "Url":"/Images/finepurse.png",
+        "Description": "Puma basketballers editon are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites.",
+        "Rating":"BestSales"
+    },
+    {
+        "Id": "prd1007",
+        "Name": "Gucci purse",
+        "Discount": 21,
+        "Price": 434.80,
+        "Availability": "InStock",
+        "Category": "Bags",
+        "Shipping": true,
+        "Url":"/Images/brownPurse.png",
+        "Description": "Gucci purse editon are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites.",
+        "Rating":"BestSales"
+    },
+    {
+        "Id": "prd1008",
+        "Name": "FS - QUILTED MAXI CROSS BAG second edition",
+        "Discount": 15,
+        "Price": 570.33,
+        "Availability": "InStock",
+        "Category": "Bags",
+        "Shipping": true,
+        "Url":"/Images/blackbag.png" ,
+        "Description": "FS - QUILTED MAXI CROSS BAG second edition are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites.",
+        "Rating": "BestSales"
+    },
+    {
+        "Id": "prd1009",
+        "Name": "Black Swade Nicky",
+        "Discount": 5,
+        "Price": 318.33,
+        "Availability": "InStock",
+        "Category": "Sneakers",
+        "Shipping": true,
+        "Url":"/Images/blackbag.png" ,
+        "Description": "Black Sale Nicky are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites.",
+        "Rating": "BestSales"
+    }
+]
